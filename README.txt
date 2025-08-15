@@ -138,7 +138,7 @@ TROUBLESHOOTING
 GIT REPOSITORY
 ======================================================================
 Repository URL:
-  https://github.com/<your-username>/<your-repo-name>
+  https://github.com/varunmodi18/SSD_Activity_Lab_2
 
 (Replace <your-username>/<your-repo-name> with your actual repository path.)
 
